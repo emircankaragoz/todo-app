@@ -1,0 +1,37 @@
+{
+  "name": "todos-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emircankaragoz/todos.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "emircan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emircankaragoz/todos/issues"
+  },
+  "homepage": "https://github.com/emircankaragoz/todos#readme"
+}
